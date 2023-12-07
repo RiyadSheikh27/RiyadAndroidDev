@@ -41,5 +41,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyadandroiddev&show_icons=true&locale=en" alt="riyadandroiddev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyadandroiddev&" alt="riyadandroiddev" /></p>
-<img align="right" alt="Coding" width="400" src="https://www.designyourway.net/blog/wp-content/uploads/2018/12/programming-wallpaper7-700x525.jpg">
 
