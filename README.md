@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently doing my B.Sc from [Green University of Bangladesh.](https://green.edu.bd/)
 
-- 🌱 I’m currently learning **competitive programming using Python**
+- 🌱 I’m currently learning **competitive programming using Python and Spring Boot**
 
-- 👯 I’m looking to find a **part-time remote job on Android Development.**
+- 👯 I’m looking to find a **part-time remote job on Android Development and Spring Boot Backend.**
 
-- 🤝 I’m looking to learn **Django**
+- 🤝 I’m looking to learn **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://riyad-sheikh.netlify.app/](https://riyad-sheikh.netlify.app/)
 
